@@ -1,0 +1,4 @@
+.form-control.is-invalid, .was-validated .form-control:invalid{
+  padding: 5px;
+  border-color: aqua;
+}
