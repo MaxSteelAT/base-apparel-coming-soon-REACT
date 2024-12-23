@@ -1,4 +1,20 @@
-.form-control.is-invalid, .was-validated .form-control:invalid{
-  padding: 5px;
-  border-color: aqua;
+.form-control.is-invalid{
+  background-position: right 50px center;
+}
+
+.button{
+  position: relative;
+  left: -20px;
+}
+
+.form-control{
+  padding-left: 30px;
+  border-radius: 50px;
+  border-color: hsl(0, 93%, 68%);
+  color: black;
+}
+
+.invalid-message{
+  padding: 20px;
+  color: hsl(0, 93%, 68%);
 }

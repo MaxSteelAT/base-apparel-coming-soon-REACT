@@ -1,6 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import './reset.css';
+//import './reset.css';
 
 import DetailsSection from './components/DetailsSection';
 import ImageSection from './components/ImageSection';

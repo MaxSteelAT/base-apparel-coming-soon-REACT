@@ -12,6 +12,4 @@ body {
   color: Linear, 135deg, from hsl(0, 80%, 86%), to hsl(0, 74%, 74%);
   display: flex;
   justify-content: center;
-  align-items: center;
-  text-align: center;
 }

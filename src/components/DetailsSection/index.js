@@ -7,7 +7,7 @@ import FormSection from '../FormSection/index';
 
 const DetailsSection = () => {
   return (
-    <div className="details-container col-md-7">
+    <div className="details-container col-md-6 col-sm-8">
       <LogoSection/>
       <TitleSection/>
       <DescriptionSection/>
