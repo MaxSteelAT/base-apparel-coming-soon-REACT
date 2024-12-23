@@ -1,0 +1,7 @@
+.paragraph {
+  width: 430px;
+  line-height: 35px;
+  font-size: 18px;
+  color: hsl(0, 36%, 70%);
+  font-family: "Josefin Sans";
+}
