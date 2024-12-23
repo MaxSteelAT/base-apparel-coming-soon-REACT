@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/base-apparel-coming-soon-REACT/static/css/main.02e581c7.css",
+    "main.js": "/base-apparel-coming-soon-REACT/static/js/main.a49a96b4.js",
+    "static/js/453.ed3810f9.chunk.js": "/base-apparel-coming-soon-REACT/static/js/453.ed3810f9.chunk.js",
+    "static/media/hero-desktop.jpg": "/base-apparel-coming-soon-REACT/static/media/hero-desktop.659bc9a7221d265fe28f.jpg",
+    "static/media/logo.svg": "/base-apparel-coming-soon-REACT/static/media/logo.bfe35add16fb8c010b0231ce711541c6.svg",
+    "index.html": "/base-apparel-coming-soon-REACT/index.html",
+    "main.02e581c7.css.map": "/base-apparel-coming-soon-REACT/static/css/main.02e581c7.css.map",
+    "main.a49a96b4.js.map": "/base-apparel-coming-soon-REACT/static/js/main.a49a96b4.js.map",
+    "453.ed3810f9.chunk.js.map": "/base-apparel-coming-soon-REACT/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02e581c7.css",
+    "static/js/main.a49a96b4.js"
+  ]
+}
